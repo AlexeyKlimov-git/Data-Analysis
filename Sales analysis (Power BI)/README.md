@@ -1,1 +1,1 @@
-![Screenshot](2022-11-16_18-36-30.png)
+![Screenshot](result.png)
